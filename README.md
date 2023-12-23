@@ -6,7 +6,7 @@
 [![innsta](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white )](https://www.instagram.com/marioarthurmatsuoka/)
 [![whats](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white )](https://bit.ly/3FoeDXl )
 
-![mar1o1's GitHub stats](https://github-readme-stats.vercel.app/api?username=mar1o1&show_icons=true&theme=cobalt)
+![mar1o1's GitHub stats](https://github-readme-stats.vercel.app/api?username=marioarthurmatsuoka&show_icons=true&theme=cobalt)
 
  ## Tecnologias que eu uso no meu dia
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marioarthurmatsuoka&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
